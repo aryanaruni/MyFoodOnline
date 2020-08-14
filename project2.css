@@ -76,7 +76,7 @@ html {
 #home::before {
     content: "";
     position: absolute;
-    background: url('1st pic.jpg');
+    background: url('1stpic.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

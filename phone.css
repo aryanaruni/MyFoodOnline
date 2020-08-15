@@ -5,6 +5,10 @@
 }
 
 #navbar {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
     flex-direction: column;
 }
 
@@ -34,8 +38,8 @@
 }
 
 .btn {
-    padding: 3px 7px;
-    margin: 0px;
+    /* padding: 3px 7px; */
+    /* margin: 0px; */
     font-size: 17px;
 }
 
@@ -47,7 +51,6 @@
 
 #services .services-item {
     width: 100%;
-   
 }
 
 #services .services-item img {
@@ -80,7 +83,7 @@
 
 #clients .clients-box img {
     height: 50px;
-    width: 45px;
+    width: 50px;
 }
 
 /* CONTACT */
